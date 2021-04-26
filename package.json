@@ -1,0 +1,25 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "An API for a social media app built with Express, Mongoose, and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rachel-Reidenga/social-network-api"
+  },
+  "keywords": [],
+  "author": "Rachel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rachel-Reidenga/social-network-api"
+  },
+  "homepage": "https://github.com/Rachel-Reidenga/social-network-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.5"
+  }
+}
