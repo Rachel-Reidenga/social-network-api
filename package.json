@@ -4,7 +4,8 @@
   "description": "An API for a social media app built with Express, Mongoose, and MongoDB",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "moment": "^2.29.1",
-    "mongoose": "^5.12.5"
+    "mongoose": "^5.12.5",
+    "node": "0.0.1-security"
   }
 }
