@@ -11,6 +11,11 @@ A REST API for a social media startup app using Expres, MongoDB and Mongoose.
 * [Credits](#contributing)
 
 * [Questions](#questions)
+  
+
+## Walkthrough Video
+[Walkthrough Video](https://drive.google.com/file/d/109VEPhY2oFr2xKdOeuvBjPUjahpXFIbS/view)
+
 
 ## Images
 
@@ -39,9 +44,6 @@ so the website can handle large amounts of unstructured data.
 ## Deployment
 
 Link to repo on [GitHub](https://github.com/Rachel-Reidenga/social-network-api/tree/master)
-
-## Walkthrough Video
-[Walkthrough Video]()
 
 
 ### Contributing
