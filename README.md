@@ -14,13 +14,13 @@ A REST API for a social media startup app using Expres, MongoDB and Mongoose.
 
 ## Images
 
-![output](screenshots/MyTeamApp.png)
+![GET](screenshots/GET.png)
 
-![prompts](screenshots/prompts.png)
+![POST](screenshots/POST.png)
 
-![tests](screenshots/TestsPass.png)
+![PUT](screenshots/PUT.png)
 
-* [video](https://drive.google.com/file/d/1Xf5RajZZzPuISYXqaW05Wcs3iENvWlFH/view)
+![POSTuser](screenshots/POST%20User.png)
   
 
 
